@@ -1,0 +1,29 @@
+name: LobbySystem
+version: 2.0
+api-version: 1.14
+author: Maximilian1021
+website: https://max1021.de
+description: Das ist das Lobby Plugin zur HardcoreLobby von knotenserver.game-energy.de
+
+main: me.Maximilian1021.main.Main
+
+
+commands:
+  spawn:
+    description: Teleportiert dich zum Spawn
+  help:
+    description: Gibt dir die Hilfe aus
+  gm:
+    description: Ändert dein Gamemode
+  pw:
+    description: Passwort für Goldrang
+  gold:
+    description: Gibt Infos über den GoldRang
+  fly:
+    description: Flug an/aus
+  build:
+    description: gibt dir baurechte
+  Butils:
+    description: Gibt dir Rechte auf Butils
+  Laufzeit:
+    description: Laufzeit Butils
