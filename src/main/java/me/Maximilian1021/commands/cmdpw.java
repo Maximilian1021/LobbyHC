@@ -14,7 +14,7 @@ import static org.bukkit.configuration.file.YamlConfiguration.loadConfiguration;
 
 public class cmdpw implements CommandExecutor {
 
-    public static String password = "FinanzmarktKeks";
+    public static String password = "<GEHEIM>";
 
     @Override
     public boolean onCommand(CommandSender sender, Command command, String label, String[] args) {
